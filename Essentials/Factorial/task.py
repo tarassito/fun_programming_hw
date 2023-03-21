@@ -1,7 +1,13 @@
+from functools import reduce
 from typing import Callable
-
-from Essentials.Factorial.tail_recursion import tail_call_optimized
 
 
 def factorial_impl() -> Callable[[int], int]:
-    raise Exception('Implement me')
+    def factorial(n: int) -> Callable[[int], int]:
+        if n == 0:
+            return 1
+        return reduce(lambda x, y: x * y, range(1, n + 1))
+
+    return factorial
+
+print(factorial_impl()(0))

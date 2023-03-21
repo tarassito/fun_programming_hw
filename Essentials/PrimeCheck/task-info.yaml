@@ -1,35 +1,38 @@
 type: edu
 files:
+- name: __init__.py
+  visible: true
+  encrypted_text: rr83tKluMU32fBrF8kV9fQXdHJHURXvCqeB85MVFMtY=
+  learner_created: false
+- name: tests/__init__.py
+  visible: true
+  encrypted_text: rr83tKluMU32fBrF8kV9fQXdHJHURXvCqeB85MVFMtY=
+  learner_created: false
+- name: task.html
+  visible: true
+  encrypted_text: tNJdOiGs4hFYGc/CBWV94sqFuE7MVxND4tP32Ghap/mluQOM9IWYr2wTdW+qLxa9VXtZrfuEAmFWjl8mHRpIdA41bUfCysK17YJBBbippGeereRJAHhUoQTBeFvnzv6m/eVp7taqQLOPHaPhBudBivqYwpbp5ocoRpOt0qfjWmdme8fkHbAOx3LZgzzsSovU+dBufaTgNICXkucaqhkoMKeJduT81CeAyAny7KUcPas=
+  learner_created: false
+- name: tests/test_task.py
+  visible: true
+  encrypted_text: zYzAfL0e14XyknicCmGNQhCQN6yQ8mwfSjS3K0xdnn2HlZadwMVlP1OF3oBzi5DKio/vD4NA94FEYjl1ofGIC6VJaLkFOBrzFCSsUHaFS70cHq9t13BpNxuf8aTGbtvQXpgVNByzYhOdHjW0RkIhYfrnNrWdNCtPSM6hVVMuCB/yrWHtxr2APEd17hOfgiVa5kOKVSWvSAxC7L94FgtfGz4O6/IpNL5869uiaN3e6tUp3+BepdoCRYOvEGDIPBQv3T9fMVbikLZLFatgNI41jF8h4MEawTgZVfqg0WvUs+s1t5pAVbhLrnokMJktNiiJXLk3Z49++X1999dG+0Lv9hbqxBnxKWGvwsa+lOIbFJDFWkgyNzZ3ljldEYpDzREfAdPXwckkPSWw+Boj5q62zs4qYSPzbnJufhKcKE4GjJU0zElz/zw1k6H1XREbLDCZGBqIx3r6HXJVB9l9PxGvCblBwkzTE3mnMBw+8gK8yprbSiDiYqSRaoKLSepqIgViaf6kvftiWTJyobEXuBqstXWegUN/VMJV6Lwc3RXuDyHw1H29DywwCXL2t4AKjMvWXrFD56TPri1clSwW13R7e3//fPEq059Fy3u9JcMWRiYxgB9MuQaDPrFCawHd7rYjN0qAGW020tL/sOjD1Wz9yJZbq49rC8Dl54rXwIrmA0OQ7i4o6sjT4vw4EODyn3aDLR+52ymsUy9PV1t14F7X6vDF/BAV84aw+L0kKNjGIJcRHppu03lzpR2GB3QA14iSvbR64L29+MmYbuO/PLcOgasKbh0hH7tg1mVdFISzbB9UHiGA7eClbqV9wGY9HlBh9SLv/rj2laporOkt2W39HZwGqNoXLQ3bXVEyI7P19+1wV1YN6AWkRrHbJReeT8r5nn9K12cN1zB/eE0MERxGN2Jcej8VyPjkc9b/OeGdDHeV3gyFBgSlKp3V+ncNxKK3UUZA0gfUYjb+wQw5qS3sbtW6IxdIYk6YgSz94tp3GFSY5MSeVHL2U2MB6qwzMOyNT/PP35tptK4umTmMZEHv8K/mH1XUZ0/aQdlqNHqgReEcZkfEjjsnEmd/iYi+G1ri8ZcqCf3ALzYbch0pGnMACk7G69YI9c5yzrXC//2qSdl/cXsIGNvR/q9ZNgFs1KqwWhkbbCiMDlIQRN4jf3T6FbLVFazrAQWIltPcoITBrDRmaW2uM/zFn0ehiH+etOIR/Wd4HCdQ6gUvK8NoysEjEw==
+  learner_created: false
 - name: task.py
   visible: true
   placeholders:
-  - offset: 34
+  - offset: 114
     length: 31
     placeholder_text: raise Exception('Implement me')
     initial_state:
       length: 31
       offset: 34
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: DNiaklTRyxhASC+Va9KsTIZvoWJl4HlSRIFAnWMvIu0psTlO2mB+EQ7ONuwDbGNBX7OBl4VlZXMdQBh41UtkbT7mGrBQust96HVG2h+b/forIe5jyPUgoa38gRKb2H7Q9O49ygvCvc+mJ/kknD/SZr40ESNOs/urb5QlUtVsBYtkcCwaTIh4upgQfmNddXVqEuOT5UB3zsEBr0YGWm7UBM7bul2z/xji0Z7JXPs9o4EEfV563aJQjEfQnuSmnwxjEh9L9LWFJnJL8j0pdbXPbXtdUGfcH88ishyP0bwScz8=
-  encrypted_text: 663kObeQ6uI8CpwJ9syXyL8jOefLZfYlULGHEQbRvjPqpHbyeBvXY04qQ2ONVEEyaXMiYwYLZ9ga6Cx7ssQJgBalhS503v9/g0tZa8pRT1I=
+  encrypted_text: uMJPtlYFgkQNZy3fcP28ubwGIsy5eGc7zCNy7culemvmWXkTjlQgcI0zQvLGBHFsTwI3epJz/CEFtF9m72A+NM6f8I8sm6ZHvHf/d7jeAAdBvVWUe6irPB9IC2tfkh28Dyl7VXnMyJ3YowRlosl1BA==
   learner_created: false
-- name: tests/test_task.py
-  visible: true
-  encrypted_text: XIlL2u+4gqNTqO7La77YdQ/GXJ43q2wqGJ2I8YRJs8KfJEFOb94nCRCIsxIF+84YTcPJXuhGjHLIjvMMwp8HwnAJfzwtzF3v1yaG/WAbVFGAs9qJUkRNBvZ+6kMOtvRMgm/uGcuSRdgKA/uhvdOK1gDDCY+SAc8NV3hApL9ZGWEqGyQxIY5oHgSt0d8IpxJ07C9z/amHO4XMgPWf3br8Kgmf1LK3OYwurWZyd9z3n8qE8ExzcQNllHwPTUwL7OarMSzn2UW4lQgIcbHj8rcmJVc6+8ZKOzNK4bCtbfF1w6zqXuwpV5d2X0XF0s9sA7zGxtntQVvEtmZ06Y8TwvhwxSbLWRtWo7K64OniTUEalfqRMkZKE7exfambpDhOSqJAZ0NcP2zIw0jCyIeQRjrwOkaZzrIC+3pinsnmEX/rem0N9ntr1wPhlq1xJPn6e4pM/WFlTNB33BdAO/jmKoz4FfC11nbSVTmuMip64ADIk3R47yBvN4xJJz/eGjGpsZhbpYPHMY6WM7iYepikuq37uD75rpU1E97SmTEjuJ7O+3Y7s2D+BBJqUMf2H4a5kYI5SCYzPZ8JRRdT5CW//Utpb6ZQ6MaaPB1RaK/PfxL9+fuEgYaRr3VEnzW4Rgh7hoDxxPUxNY6laoOgF5grMvxsWQhjPgx7CiBm1by2B0aduZtbeWcvnLsPl79DdG3+iU2Nn6vwgvtvckILIFWrbBe1QzJsDWnQBhZPymhONYB9j16k800pDRaHXFPwfX3PWSuEh4w9MaSHvxwvqmKKB4O3h8ySt5Q2lfMJndYY5NjGVAsb0vVjW50eN3sPFfM0GiBq8/YWZrgT/MkrI9rgKvz5HzUiyW8wNWLhPtwMgLj6X8Y6H4avtLchSzgFVa2pf5k2XEcGPczniLDix8hydn3/Wg==
-  learner_created: false
-- name: __init__.py
-  visible: true
-  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
-  learner_created: false
-- name: tests/__init__.py
-  visible: true
-  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
-  learner_created: false
-- name: task.html
-  visible: true
-  encrypted_text: Q/0EiYUAho757BhoHs/qF7YQ8gh7MoqF+dCWiKNkMWnH8ruV8Jm8s8+lrZdRSPhWRwr0ZN06OUKrzbUi2loFisOm5DnYFPUiJoPP7hQ3Jkh9RybZS3XnegYjrGH2uAD96Bzl5NOoMUHBmIKF0QNArMpEekLHCRZ52f1NAnxbvHc=
-  learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 16 Mar 2023 22:32:30 UTC"
 record: -1
